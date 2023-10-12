@@ -3,7 +3,7 @@ import java.awt.event.*;
 
 /*
  * Fall 2023 COSC 20203
- * Author: Oscar Arenas
+ * Author: Ozzy
  * Lab 2
  */
 
